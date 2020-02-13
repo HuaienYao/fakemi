@@ -1,4 +1,4 @@
-t MY_DOMAIN = "fakemi.xyz"
+const MY_DOMAIN = "fakemi.xyz"
 const START_PAGE = "https://www.notion.so/wyane/Fakemi-0e1081590d164fa7ba1c9e5f67fb8d89"
 const DISQUS_SHORTNAME = "fa-ke-mi" 
 
