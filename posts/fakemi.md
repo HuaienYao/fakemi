@@ -1,22 +1,18 @@
 ## 代购域名
-| 系统版本              | 激活密钥                  |
-| ------------------------- | ----------------------------- |
-| Windows Server 数据中心版 | 6NMRW-2C8FM-D24W7-TQWMY-CWH2D |
-| Windows Server 标准版   | N2KJX-J94YW-TQVFB-DG9YT-724CC |
 
 ### 低价域名
 低价域名代注册。每日限一个。
 
 价格为首年，之后续费原价，可以转其他平台。
 
-后缀 | 首年价格 | 续费价格 | 注册平台|续费平台
-|---|---|---|---|---|
-|.jp   |￥100| ￥179| Onamae | Onamae |
-|.xyz  |￥5  | ￥56 | Onamae | DomainCostClub |
-|.work |￥5  | ￥23 | Onamae | 阿里云 |
-|.tokyo|￥10 | ￥69 | Onamae | Porkbun|
-|.com  |￥40 | ￥45 | Onamae | 腾讯云（转入）|
-|.net  |￥40 | ￥68 | Onamae | 腾讯云|
+| 后缀 | 首年价格 | 续费价格 | 注册平台 | 续费平台 |
+|------|----------|----------|----------|----------|
+|.jp   |￥100     | ￥179    | Onamae   | Onamae   |
+|.xyz  |￥5       | ￥56     | Onamae   | DomainCostClub |
+|.work |￥5       | ￥23     | Onamae   | 阿里云   |
+|.tokyo|￥10      | ￥69     | Onamae   | Porkbun  |
+|.com  |￥40      | ￥45     | Onamae   | 腾讯云（转入）|
+|.net  |￥40      | ￥68     | Onamae   | 腾讯云   |
 
 ### 其他平台域名代注册
 
