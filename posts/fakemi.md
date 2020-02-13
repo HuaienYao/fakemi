@@ -1,4 +1,13 @@
-namae | Onamae
+## 代购域名
+
+### 低价域名
+低价域名代注册。每日限一个。
+
+价格为首年，之后续费原价，可以转其他平台。
+
+后缀 | 首年价格 | 续费价格 | 注册平台|续费平台
+---|---|---|--|--
+.jp   |￥100| ￥179| Onamae | Onamae
 .xyz  |￥5  | ￥56 | Onamae | DomainCostClub
 .work |￥5  | ￥23 | Onamae | 阿里云
 .tokyo|￥10 | ￥69 | Onamae | Porkbun
